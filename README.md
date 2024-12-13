@@ -28,7 +28,7 @@ The manual process of data cleaning and analysis was consuming hours of employee
 I wrote Python scripts that automated data cleaning, transformed raw data into structured formats, and generated visual reports to help the team stay on top of key metrics.
 
 ---
-## 🪀 Amazon Web Scraping: Price Tracking and Email Alerts
+## 🪀3. Amazon Web Scraping: Price Tracking and Email Alerts
 
  This fun little scraper monitors the price of a shirt on Amazon and lets you know when it’s time to make your purchase (just in case you’re waiting for a discount)!
 
